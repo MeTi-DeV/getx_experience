@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "146882309943",
+      "project_id": "getxlogin-36162",
+      "storage_bucket": "getxlogin-36162.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:146882309943:android:e39eb0ef5c868b822334b2",
+          "android_client_info": {
+            "package_name": "com.santosenoque.cadevo"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "146882309943-pg8rgd6tl4vlp30brpqv53siqv2jm868.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCRFtknK1uUMGjW4IqPX8nse46LVOYwpEg"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "146882309943-pg8rgd6tl4vlp30brpqv53siqv2jm868.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
