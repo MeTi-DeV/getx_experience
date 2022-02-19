@@ -96,7 +96,7 @@ class automatically extends GetxController {
   _addToFirestore(String userId) {
     firebaseFirestore.collection(userCollection).doc(userId).set({
       "name": name.text.trim(),
-      "id": _userId,
+      "id": userId,
       "email": email.text.trim(),
      
     });
